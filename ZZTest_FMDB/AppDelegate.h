@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  ZZTest_FMDB
+//
+//  Created by itp on 16/6/29.
+//  Copyright © 2016年 zte. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "DBManager/DBManager.h"
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
+
